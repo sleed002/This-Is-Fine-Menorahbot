@@ -1,6 +1,8 @@
 # 'This Is Fine' 2020 Menorahbot
 Arduino programmed menorah which plays either a Chanukah song or 'It's The End of the World as we Know It' and turns on an additional LED light flame when button is pressed. One LED for each night of Chanukkah and after 8 nights, menorah will perform a brief light display to the music
 
+"https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0&appId=239808377468016&autoLogAppEvents=1"
+
 ### Click image to watch Chanukkah song video
 [![Full Video of the Menorah](https://i.ibb.co/7jTyG7t/Image-from-i-OS.jpg)](https://youtu.be/guHcGGm33To)
 
